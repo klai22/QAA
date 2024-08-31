@@ -149,3 +149,21 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+#KL's ADDITIONS
+6_2D_Log.final.out
+1_2A_Log.final.out
+6_2D_Log.progress.out
+1_2A_Log.progress.out
+6_2D_Log.out
+1_2A_Log.out
+1_2A_R2fastqc
+6_2D_R1fastqc
+1_2A_R1fastqc
+6_2D_R2fastqc
+6_2D_SJ.out.tab                           
+1_2A_SJ.out.tab
+test_1_2A_R1fastqc
+mouse_ensembl_files
+Mus_musculus.GRCm39.dna.ens112.STAR_2.7.11b
+o_e_files
